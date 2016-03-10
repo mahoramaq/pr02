@@ -3,4 +3,4 @@
 - stav teoretickej casti: 100%
 - stav praktickej časti: 0%
 - termín odovzdania 22.04.2015
-- Zmena spravená lokálne
+- Zmena spravená lokálne je ta pravá
