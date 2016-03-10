@@ -3,3 +3,4 @@
 - stav teoretickej casti: 100%
 - stav praktickej časti: 0%
 - termín odovzdania 22.04.2015
+- zmena spravéná v repozitári:
